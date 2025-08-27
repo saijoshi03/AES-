@@ -10,4 +10,4 @@ A simple Python Tkinter GUI for AES encryption and decryption using CBC mode.
 
 ## Usage
 ```bash
-python aes_gui.py
+python aes.py
